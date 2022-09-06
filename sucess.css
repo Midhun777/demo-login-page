@@ -1,0 +1,52 @@
+	*{
+			box-shadow:border-box;
+		}
+		
+		body{
+			  font-family: Arial, Helvetica, sans-serif;
+			  margin:0px;
+		}
+		
+		.tick {
+			color:#58AA3E;
+			margin:0px;
+			margin-top:40px;
+			font-size:50px;
+		}
+		
+		.stext{
+			margin:0px;
+			margin-top:25px;
+			color:#58993E;
+			font-size:30px;
+		}
+		
+		a {
+			text-decoration:none;
+		}
+		
+		.back {
+			margin:0px;
+			margin-top:40px;
+			border:none;
+			color:#58993E;
+			background-color:white;
+			border:1px solid #58993E;
+			border-radius:2px;
+			height:30px;
+			width:80px;
+		}
+		
+		.back:hover{
+			background-color:#58993E;
+			color:white;
+			opacity:0.8;
+			transition: opacity 0.15s;
+		}
+		
+		.back:hover {
+			background-color: #58993E;
+			color: white;
+			opacity: 0.8;
+			transition: opacity 0.15s;
+		}
